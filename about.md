@@ -17,4 +17,4 @@ menu:
     weight: 2
 
 ---
-Much like a thousand monkeys able to miraculously generate a usable manuscript given enough time, I bash code together in the hopes that it will provide some useful function.
+Much like a thousand monkeys able to miraculously generate a usable manuscript given enough time, I bash code together in the hopes that it will provide some useful function. 
