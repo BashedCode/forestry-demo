@@ -1,7 +1,6 @@
 ---
 label: project
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: title
@@ -28,4 +27,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- _projects/arduino-watering.md
 - _projects/vulnerability-assessment.html

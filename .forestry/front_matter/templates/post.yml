@@ -1,7 +1,6 @@
 ---
 label: post
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -39,3 +38,5 @@ fields:
   type: text
   hidden: true
   default: post
+pages:
+- memory-palace.md
