@@ -39,5 +39,5 @@ fields:
   hidden: true
   default: post
 pages:
-- _posts/windows-perflib-issues.md
+- _posts/2021-11-03-windows-perflib-issues.md
 - memory-palace.md
