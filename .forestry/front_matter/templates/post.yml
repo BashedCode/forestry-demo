@@ -40,4 +40,5 @@ fields:
   default: post
 pages:
 - _posts/2021-11-03-windows-perflib-issues.md
+- _posts/the-encryption-challenge.md
 - memory-palace.md
