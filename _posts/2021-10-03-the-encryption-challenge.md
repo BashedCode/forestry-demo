@@ -2,7 +2,7 @@
 layout: post
 title: The encryption challenge
 sub_heading: ''
-date: 
+date: 2019-01-22 00:00:00 -0800
 tags: []
 banner_image: ''
 related_posts: []
