@@ -4,7 +4,7 @@ title: Windows Perflib issues
 sub_heading: ''
 date: 2021-11-03 00:00:00 -0700
 tags: []
-banner_image: ''
+banner_image: "/uploads/2021/10/03/windows-perflib-issues.png"
 related_posts: []
 
 ---
@@ -28,3 +28,5 @@ B: opening a CMD with administrator rights, and typing in:
 Many thanks to AndersWWW for this answer.
 
 [https://answers.microsoft.com/en-us/windows/forum/all/repeated-over-and-over-and-over-and-over-again/d951e7d6-b9ad-44d1-bfa3-49a94eae1fdc?LastReply=true#LastReply](https://answers.microsoft.com/en-us/windows/forum/all/repeated-over-and-over-and-over-and-over-again/d951e7d6-b9ad-44d1-bfa3-49a94eae1fdc?LastReply=true#LastReply "https://answers.microsoft.com/en-us/windows/forum/all/repeated-over-and-over-and-over-and-over-again/d951e7d6-b9ad-44d1-bfa3-49a94eae1fdc?LastReply=true#LastReply")
+
+![](/uploads/2021/10/03/windows-perflib-issues.png)
