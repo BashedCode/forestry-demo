@@ -10,7 +10,7 @@ related_posts: []
 ---
 Tonight it seemed like my laptop was going to die. The CPU was maxed, even after stopping programs it seemed unresponsive. Finally, I was able to reboot and the same thing happened. This isn't normal for this system. It is snappy and quick most of the time with almost all the applications I throw at it.
 
-I load the trusty Event Viewer to try to figure out what happening and notice errors I have seen many times before. A ".dll failed with error code The device is not ready. Performance data for this service will not be available." Keeps showing for a few different .dll files. I am sure I have seen this on other systems and never had to worry about it but I take the bait and look it up.
+I load the trusty Event Viewer to try to figure out what happening and notice errors I have seen many times before. A ".dll failed with error code The device is not ready. Performance data for this service will not be available." Keeps showing for a few different .dll files. I am sure I have seen this on other systems and never had to worry about it this is different so I look it up.
 
 ![](/uploads/2021/10/03/windows-perflib-issues.png)
 
